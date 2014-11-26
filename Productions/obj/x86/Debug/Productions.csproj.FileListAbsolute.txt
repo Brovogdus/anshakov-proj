@@ -1,0 +1,29 @@
+C:\Users\Ирина Snowy\Documents\Visual Studio 2010\Projects\Productions\Productions\bin\Debug\Productions.exe
+C:\Users\Ирина Snowy\Documents\Visual Studio 2010\Projects\Productions\Productions\bin\Debug\Productions.pdb
+C:\Users\Ирина Snowy\Documents\Visual Studio 2010\Projects\Productions\Productions\obj\x86\Debug\Productions.Properties.Resources.resources
+C:\Users\Ирина Snowy\Documents\Visual Studio 2010\Projects\Productions\Productions\obj\x86\Debug\Productions.csproj.GenerateResource.Cache
+C:\Users\Ирина Snowy\Documents\Visual Studio 2010\Projects\Productions\Productions\obj\x86\Debug\Productions.exe
+C:\Users\Ирина Snowy\Documents\Visual Studio 2010\Projects\Productions\Productions\obj\x86\Debug\Productions.pdb
+C:\Users\hlp\Desktop\Productions\Productions\obj\x86\Debug\Productions.exe
+C:\Users\hlp\Desktop\Productions\Productions\obj\x86\Debug\Productions.pdb
+D:\U\Anshak\Productions\Productions\obj\x86\Debug\Productions.exe
+D:\U\Anshak\Productions\Productions\obj\x86\Debug\Productions.pdb
+D:\U\Anshak\Productions\Productions\obj\x86\Debug\Productions.Properties.Resources.resources
+D:\U\Anshak\Productions\Productions\obj\x86\Debug\Productions.csproj.GenerateResource.Cache
+D:\U\Anshak\Productions\Productions\bin\Debug\Productions.exe
+D:\U\Anshak\Productions\Productions\bin\Debug\Productions.pdb
+C:\Users\Ирина Snowy\Desktop\Productions\Productions\obj\x86\Debug\Productions.exe
+C:\Users\Ирина Snowy\Desktop\Productions\Productions\obj\x86\Debug\Productions.pdb
+C:\Users\Ирина Snowy\Desktop\Productions\Productions\obj\x86\Debug\Productions.csprojResolveAssemblyReference.cache
+C:\Users\Ирина Snowy\Desktop\Productions\Productions\obj\x86\Debug\Productions.Properties.Resources.resources
+C:\Users\Ирина Snowy\Desktop\Productions\Productions\obj\x86\Debug\Productions.csproj.GenerateResource.Cache
+C:\Users\Ирина Snowy\Desktop\Productions\Productions\bin\Debug\Productions.exe
+C:\Users\Ирина Snowy\Desktop\Productions\Productions\bin\Debug\Productions.pdb
+C:\Users\Ирина Snowy\Desktop\аншаков\Productions\Productions\obj\x86\Debug\Productions.exe
+C:\Users\Ирина Snowy\Desktop\аншаков\Productions\Productions\obj\x86\Debug\Productions.pdb
+C:\Users\Ирина Snowy\Desktop\аншаков\Productions\Productions\bin\Debug\Productions.exe
+C:\Users\Ирина Snowy\Desktop\аншаков\Productions\Productions\bin\Debug\Productions.pdb
+C:\Users\Ирина Snowy\Desktop\аншаков\Productions\Productions\obj\x86\Debug\Productions.csprojResolveAssemblyReference.cache
+C:\Users\Ирина Snowy\Desktop\аншаков\Productions\Productions\obj\x86\Debug\Productions.Properties.Resources.resources
+C:\Users\Ирина Snowy\Desktop\аншаков\Productions\Productions\obj\x86\Debug\Productions.csproj.GenerateResource.Cache
+C:\Users\Ирина Snowy\Desktop\аншаков\Productions\Productions\obj\x86\Debug\Productions.Form1.resources
